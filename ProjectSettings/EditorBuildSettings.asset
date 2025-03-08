@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/PlayerSelect.unity
     guid: 3a883a6e1da60ec42aba5797e00d007c
   - enabled: 1
+    path: Assets/Scenes/AI_GAME.unity
+    guid: ca5f172d433e9a74192347f2fef97376
+  - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects: {}

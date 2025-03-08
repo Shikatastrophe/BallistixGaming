@@ -4057,6 +4057,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6247752479002345412, guid: dfd5ea5c38403bc41aef2b82de35c447,
         type: 3}
+      propertyPath: winnerText
+      value: 
+      objectReference: {fileID: 1529174431}
+    - target: {fileID: 6247752479002345412, guid: dfd5ea5c38403bc41aef2b82de35c447,
+        type: 3}
       propertyPath: playerLifes
       value: 20
       objectReference: {fileID: 0}
